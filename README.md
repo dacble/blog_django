@@ -1,2 +1,2 @@
 # blog_django
-django入门时间
+## django入门实践
